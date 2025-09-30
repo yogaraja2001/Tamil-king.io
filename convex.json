@@ -1,0 +1,5 @@
+{
+  "functions": "./",
+  "schema": "./schema.ts",
+  "deployment": "https://majestic-cricket-396.convex.cloud"
+}
